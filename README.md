@@ -36,8 +36,9 @@
 
   <h3>Frontend</h3>
   <ul>
-    <li><strong>HTML5</strong> – Used to structure all content on the webpage.</li>
-    <li><strong>CSS3</strong> – Used to style the layout, colors, spacing, fonts, and page design.</li>
+    <li><strong>HTML</strong> – Used to structure all content on the webpage.</li>
+    <li><strong>CSS</strong> – Used to style the layout, colors, spacing, fonts, and page design.</li>
+    <li><strong>Javascript</strong> - Used a little bit of javascript to get a bit of motion</li>
   </ul>
 
   <h3>Media Production</h3>
